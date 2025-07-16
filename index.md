@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Welcome ✨
+Welcome ✨
 ---
 
 ## 🧠 Summary (My Villain Origin Story)
